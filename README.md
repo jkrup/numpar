@@ -1,6 +1,6 @@
 # numpar
 
-![A simple, modern logo that represents number parsing/conversion](assets/images/numpar_logo.jpg)
+![A simple, modern logo that represents number parsing/conversion](https://raw.githubusercontent.com/jkrup/numpar/main/assets/images/numpar_logo.jpg)
 
 A Python package for parsing human-friendly number formats into floats. Handles various number formats including comma separators, percentages, and magnitude suffixes (k, M, B).
 
@@ -16,7 +16,7 @@ A Python package for parsing human-friendly number formats into floats. Handles 
 - Whitespace handling
 - Combined format support (e.g., "1,234.56k")
 
-![Example usage of numpar](assets/images/screenshot.png)
+![Example usage of numpar](https://raw.githubusercontent.com/jkrup/numpar/main/assets/images/screenshot.png)
 
 ## Installation
 

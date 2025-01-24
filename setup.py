@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="numpar",
-    version="0.1.1",
+    version="0.1.2",
     packages=find_packages(),
     description="A package for parsing number strings in various formats",
     long_description=long_description,
