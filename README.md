@@ -1,6 +1,6 @@
 # numpar
 
-[Logo Placeholder - Consider adding a simple, modern logo that represents number parsing/conversion]
+![A simple, modern logo that represents number parsing/conversion](assets/images/numpar_logo.jpg)
 
 A Python package for parsing human-friendly number formats into floats. Handles various number formats including comma separators, percentages, and magnitude suffixes (k, M, B).
 
@@ -16,7 +16,7 @@ A Python package for parsing human-friendly number formats into floats. Handles 
 - Whitespace handling
 - Combined format support (e.g., "1,234.56k")
 
-[Screenshot Placeholder - Consider adding a terminal screenshot showing various parsing examples]
+![Example usage of numpar](assets/images/screenshot.png)
 
 ## Installation
 
@@ -108,8 +108,3 @@ To publish a new version to PyPI:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Badge Placeholder - Consider adding badges for build status, test coverage, PyPI version]
-- Thanks to all contributors who help improve this package
